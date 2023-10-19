@@ -1,2 +1,2 @@
 # Mohammad Mehdi Morovati 
-## PhD candidate of Software Engineering at Polytechnique Montreaql
+## Ph.D candidate of Software Engineering at Polytechnique Montreal
