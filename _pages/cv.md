@@ -15,17 +15,21 @@ Education
 * M.S. in **Software Engineering**, University of Kashan, Kashan, Iran, 2013
 * B.S. in **Software Engineering**, Technical and Vocational University of Shiraz, Shiraz, Iran, 2008
 
+
 Research experience
 ======
 * **Research Assistant**, 2020-2024: Dependable and Explainable Learning (DEEL) project
   * Member and scholar in DEEL project.
   * Worked on reliability management and failure taxonomy of AI-enabled systems.
 
+
 * **Research Intern**, 2023-2024: Ericsson, GAIA department
   * Carried out research on satisfying the reliability of a smart software ecosystem in harsh conditions.
 
+
 * **Research Intern**, 2020-2021: TECHNO AÉRO SERVICES (TAS)
   * Worked on ‘*AI-based automation of the candidate recruitment and management system*’ project.
+
 
 Work experience
 ======
@@ -35,6 +39,14 @@ Work experience
 * **Software Engineer and J2EE developer**, 2016-2018: MAGFA, Tehran, Iran
   * Provided approaches to analyze data in big data environment
 
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Skills
 ======
 * Skill 1
@@ -43,15 +55,4 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
