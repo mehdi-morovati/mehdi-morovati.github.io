@@ -27,7 +27,7 @@ redirect_from:
 
 * **Research Intern**, 2020-2021: TECHNO AÉRO SERVICES (TAS)
   * Worked on ‘*AI-based automation of the candidate recruitment and management system*’ project.
----
+<br>
 
 Work experience
 ======
@@ -36,14 +36,14 @@ Work experience
  
 * **Software Engineer and J2EE developer**, 2016-2018: MAGFA, Tehran, Iran
   * Provided approaches to analyze data in big data environment
-
+<br>
 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+<br>
 
 Skills
 ======
