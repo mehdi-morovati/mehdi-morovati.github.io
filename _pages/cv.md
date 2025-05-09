@@ -25,7 +25,7 @@ Research experience
   * Carried out research on satisfying the reliability of a smart software ecosystem in harsh conditions.
 
 * **Research Intern**, 2020-2021: TECHNO AÉRO SERVICES (TAS)
-  * Worked on ‘AI-based automation of the candidate recruitment and management system’ project.
+  * Worked on ‘*AI-based automation of the candidate recruitment and management system*’ project.
 
 Work experience
 ======
