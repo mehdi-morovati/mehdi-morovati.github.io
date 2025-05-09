@@ -14,8 +14,8 @@ redirect_from:
 * M.S. in **Software Engineering**, University of Kashan, Kashan, Iran, 2013
 * B.S. in **Software Engineering**, Technical and Vocational University of Shiraz, Shiraz, Iran, 2008 
 
-******
-## Research experience
+________
+## Research Experience
 * **Research Assistant**, 2020-2024: Dependable and Explainable Learning (DEEL) project
   * Member and scholar in DEEL project
   * Worked on reliability management and failure taxonomy of AI-enabled systems.
@@ -27,14 +27,14 @@ redirect_from:
   * Worked on ‘*AI-based automation of the candidate recruitment and management system*’ project
 
 ________
-## Work experience
+## Work Experience
 * **Software Test Engineer**, 2018-2019: MTN Irancell, Tehran, Iran
   * Provided approaches to test the whole software ecosystem automatically
  
 * **Software Engineer and J2EE developer**, 2016-2018: MAGFA, Tehran, Iran
   * Provided approaches to analyze data in big data environment
 
--------
+________
 ## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
