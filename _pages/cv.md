@@ -26,7 +26,7 @@ redirect_from:
 * **Research Intern**, 2020-2021: TECHNO AÉRO SERVICES (TAS)
   * Worked on ‘*AI-based automation of the candidate recruitment and management system*’ project
 
-
+________
 ## Work experience
 * **Software Test Engineer**, 2018-2019: MTN Irancell, Tehran, Iran
   * Provided approaches to test the whole software ecosystem automatically
