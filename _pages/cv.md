@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+##Education
 * Ph.D in **Software Engineering**, University of Montreal,Polytechnique Montreal, Montreal, Canada, 2024
 * M.S. in **Software Engineering**, University of Kashan, Kashan, Iran, 2013
 * B.S. in **Software Engineering**, Technical and Vocational University of Shiraz, Shiraz, Iran, 2008
----
+<br>
 
-Research experience
-======
+#Research experience
 * **Research Assistant**, 2020-2024: Dependable and Explainable Learning (DEEL) project
   * Member and scholar in DEEL project.
   * Worked on reliability management and failure taxonomy of AI-enabled systems.
