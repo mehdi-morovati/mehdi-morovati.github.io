@@ -13,7 +13,7 @@ redirect_from:
 * Ph.D in **Software Engineering**, University of Montreal,Polytechnique Montreal, Montreal, Canada, 2024
 * M.S. in **Software Engineering**, University of Kashan, Kashan, Iran, 2013
 * B.S. in **Software Engineering**, Technical and Vocational University of Shiraz, Shiraz, Iran, 2008 
-***
+
 
 ## Research experience
 * **Research Assistant**, 2020-2024: Dependable and Explainable Learning (DEEL) project
@@ -25,7 +25,7 @@ redirect_from:
 
 * **Research Intern**, 2020-2021: TECHNO AÉRO SERVICES (TAS)
   * Worked on ‘*AI-based automation of the candidate recruitment and management system*’ project
-***
+
 
 ## Work experience
 * **Software Test Engineer**, 2018-2019: MTN Irancell, Tehran, Iran
@@ -33,14 +33,13 @@ redirect_from:
  
 * **Software Engineer and J2EE developer**, 2016-2018: MAGFA, Tehran, Iran
   * Provided approaches to analyze data in big data environment
-***
+
 
 ## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-<br> 
-***
+
 
 ## Skills
 * Skill 1
