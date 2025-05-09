@@ -14,7 +14,7 @@ redirect_from:
 * M.S. in **Software Engineering**, University of Kashan, Kashan, Iran, 2013
 * B.S. in **Software Engineering**, Technical and Vocational University of Shiraz, Shiraz, Iran, 2008 
 
-<hr size="30">
+________
 ## Research Experience
 * **Research Assistant**, 2020-2024: Dependable and Explainable Learning (DEEL) project
   * Member and scholar in DEEL project
