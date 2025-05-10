@@ -36,16 +36,9 @@ ________
 
 ________
 ## Teaching
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+* ** Lecturer**, 2015-2016: Technical and Vocational University of Shiraz, Shiraz, Iran
+  * Delivered lectures on *Software Engineering*, *Advanced Programming*, *Special Topics in Programming*, etc.
 ________
-## Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Awards
+* 1st Rank among all B.Sc. students of computer engineering 
   
