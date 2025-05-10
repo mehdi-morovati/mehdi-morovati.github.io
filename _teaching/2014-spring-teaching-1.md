@@ -1,6 +1,2 @@
----
-collection: teaching
----
-
 ## *NeuraLint*
 A DL program encodes the network structure of a desirable DL model and the process by which the model learns from the training dataset. Like any software, a DL program can be faulty, which implies substantial challenges of software quality assurance, especially in safety-critical domains. It is therefore crucial to equip DL development teams with efficient fault detection techniques and tools. In this paper, we propose NeuraLint, a model-based fault detection approach for DL programs, using meta-modelling and graph transformations.
