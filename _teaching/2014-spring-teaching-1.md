@@ -1,5 +1,4 @@
 ---
-title: NeuraLint
 collection: teaching
 ---
 
