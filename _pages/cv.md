@@ -36,7 +36,7 @@ ________
 
 ________
 ## Teaching
-* ** Lecturer**, 2015-2016: Technical and Vocational University of Shiraz, Shiraz, Iran
+* **Lecturer**, 2015-2016: Technical and Vocational University of Shiraz, Shiraz, Iran
   * Delivered lectures on *Software Engineering*, *Advanced Programming*, *Special Topics in Programming*, etc.
 ________
 ## Awards
