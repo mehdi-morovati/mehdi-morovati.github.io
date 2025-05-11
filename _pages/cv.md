@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in **Software Engineering**, University of Montreal,Polytechnique Montreal, Montreal, Canada, 2024
+* Ph.D in **Software Engineering**, University of Montreal, Polytechnique Montreal, Montreal, Canada, 2024
 * M.S. in **Software Engineering**, University of Kashan, Kashan, Iran, 2013
 * B.S. in **Software Engineering**, Technical and Vocational University of Shiraz, Shiraz, Iran, 2008 
 
