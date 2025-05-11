@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "mehdi_01.jpg"
   name             : "" #Your Sidebar Name
-  pronouns         : # example: "she/her"  
+  pronouns         : example: "he/him/il" 
   bio              : "" #Short biography for the left-hand sidebar
   location         : "Montréal, Quebec, Canada"
   employer         : "Polytechnique Montréal"
